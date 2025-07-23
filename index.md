@@ -9,7 +9,7 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 
 - Keywords: Language comprehension, working memory, syntax, categorial grammars
 - Email: s-isono at ninjal
-- Twitter (X): [@isoshin626](https://x.com/isoshin626)
+- [Twitter](https://x.com/isoshin626), [Researchmap](https://researchmap.jp/isono-shinnosuke)
 
 # Publications
 ## Journal articles
