@@ -3,9 +3,9 @@ layout: default
 title: Shinnosuke Isono
 ---
 
-I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Japan. I study language comprehension in humans using a combination of theoretical, experimental, and computational approaches.
+<img src="face.png" style="float:right" width="140px" height="165px">
 
-<img src="face.png" style="float:right" width="280px" height="330px">
+I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Japan. I study language comprehension in humans using a combination of theoretical, experimental, and computational approaches.
 
 Keywords: Language comprehension, working memory, syntax, categorial grammars
 
