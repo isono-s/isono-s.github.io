@@ -5,7 +5,9 @@ title: Shinnosuke Isono
 
 I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Japan. I study language comprehension in humans using a combination of theoretical, experimental, and computational approaches.
 
-**Keywords**: Language comprehension, working memory, syntax, categorial grammars
+<img src="face.png" style="float:right">
+
+Keywords: Language comprehension, working memory, syntax, categorial grammars
 
 # Publications 
 ## Journal articles
@@ -22,9 +24,15 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 
 ## Posters (under construction)
 
-## Thesis
+## Theses
 - **Isono, S.** (2025). _Syntactic processing as dynamic logical inference under resource limitations._ PhD Thesis, University of Tokyo. **The First National High School Memorial Award**
 - **Isono, S.** (2022). _On Processing and Representation of Verbs and Their Arguments._ Master Thesis, University of Tokyo. **The First National High School Memorial Award**
 
 # Grants
 - Grants-in-Aid for JSPS fellows (DC2) FY 2022-2024
+
+# Education
+- PhD, Univesity of Tokyo, 2025
+- MA, University of Tokyo, 2022
+- Bachelor of Law, University of Tokyo, 2015
+- Exchange student, University of Toronto, 2013-2014
