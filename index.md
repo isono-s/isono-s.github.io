@@ -26,6 +26,8 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 - **Isono, S.**, Kajikawa, K., & Oseki, Y. (2024). 日本語大規模読み時間コーパスにおける記憶の負荷のCCGによるモデリング \[Modeling memory load in a Japanese large-scale reading time corpus with CCG\]. **Best presentation award**
 
 ## Posters (under construction)
+- **Isono, S.**, & Kajikawa, K. (upcoming). Grammar as logic, processing as deduction, actions as theorems, states as propositions. _CPL 2025_ (spotlight poster).
+- Kajikawa, K., & **Isono, S.** (upcoming). Syntactic Node Count as Index of Predictability. _CPL 2025_.
 - **Isono, S.** (2024). Incremental processing with a bottom-up CCG parser. _AMLaP 2024_.
 
 ## Theses
