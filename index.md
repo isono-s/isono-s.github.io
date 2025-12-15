@@ -22,11 +22,11 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 - **Isono, S.**, Hasegawa, T., Kajikawa, K., Kono, K., Nakamura, S., & Oseki, Y. (2023). Formalizing argument structures with Combinatory Categorial Grammar. _Logic and Engineering of Natural Language Semantics (LENLS) 2022. Lecture Notes in Computer Science, 14213_, 83–99. [\[paper\]](https://doi.org/10.1007/978-3-031-43977-3_6)
 - **Isono, S.** & Hirose, Y. (2022). Psycholinguistic evidence for severing arguments from the verb. _Japanese/Korean linguistics, 29_, 437-446. [\[paper\]](https://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH31.pdf)
 
-## Talks (under construction)
+## Talks (selected)
 - **Isono, S.**, Kajikawa, K., & Oseki, Y. (2024). 日本語大規模読み時間コーパスにおける記憶の負荷のCCGによるモデリング \[Modeling memory load in a Japanese large-scale reading time corpus with CCG\]. **Best presentation award**
 
-## Posters (under construction)
-- **Isono, S.**, & Kajikawa, K. (upcoming). Grammar as logic, processing as deduction, actions as theorems, states as propositions. _CPL 2025_ (spotlight poster).
+## Posters (selected)
+- **Isono, S.**, & Kajikawa, K. (upcoming). Grammar as logic, processing as deduction, actions as theorems, states as propositions. _CPL 2025_ (spotlight poster). [\[poster\]](files/cpl2025_tlg_poster.pdf)
 - Kajikawa, K., & **Isono, S.** (upcoming). Syntactic Node Count as Index of Predictability. _CPL 2025_.
 - **Isono, S.** (2024). Incremental processing with a bottom-up CCG parser. _AMLaP 2024_.
 
