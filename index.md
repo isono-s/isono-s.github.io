@@ -38,7 +38,8 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 - **Isono, S.** (2022). _On Processing and Representation of Verbs and Their Arguments._ Master Thesis, University of Tokyo. **The First National High School Memorial Award**
 
 # Grants
-- Grants-in-Aid for JSPS fellows (DC2) FY 2022-2024
+- JSPS KAKENHI Grant JP25K22996 認知資源の制約下で動作する人間の言語理解機構の特性と限界の解明 \[Elucidating human language comprehension under cognitive resource limitations\] FY 2025--2027
+- Grants-in-Aid for JSPS fellows (DC2) JP23KJ0538 ヒトの文理解における動詞・項関係の逐次的な構築のメカニズムの解明 \[Study on the incremental building of verb-argument relations in human sentence comprehension\] FY 2022--2024
 
 # Education
 - PhD, Univesity of Tokyo, 2025
