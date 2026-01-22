@@ -14,7 +14,7 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 # Publications
 ## Preprints
 - **Isono, S.**, Kajikawa, K., Oseki, Y., Asahara, M. (2025). Modeling memory effects in a head-final language with category locality. _PsyArXiv_ [\[paper\]](https://osf.io/preprints/psyarxiv/aj6my)
-- 
+
 ## Journal articles
 - **Isono, S.** (2024). Category Locality Theory: A unified account of locality effects in language comprehension. _Cognition 247_, 105766. [\[paper\]](https://doi.org/10.1016/j.cognition.2024.105766)
 - **Isono, S.** & Hirose, Y. (2023). Pre-verb reactivation of arguments in sentence processing. _Glossa Psycholinguistics, 2_(1). [\[paper\]](https://doi.org/10.5070/G6011180)
