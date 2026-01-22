@@ -1,4 +1,3 @@
-<img width="468" height="212" alt="image" src="https://github.com/user-attachments/assets/d4483622-2eee-4ac2-a5c6-381d3007f405" />---
 layout: default
 title: Shinnosuke Isono
 ---
