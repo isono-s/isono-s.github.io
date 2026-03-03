@@ -12,10 +12,10 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 - [Twitter](https://x.com/isoshin626), [Researchmap](https://researchmap.jp/isono-shinnosuke)
 
 # Preprints
-- Kajikawa, K., **Isono, S.**, Wilcox, E. G. (2026). Information-theoretic storage cost in sentence comprehension [\[paper\]](https://arxiv.org/abs/2602.18217)
-- Kajikawa, K., & **Isono, S.**. (2026). The dual nature of syntactic Node Count: Facilitating and inhibiting sentence comprehension
+- Kajikawa, K., **Isono, S.**, & Wilcox, E. G. (2026). Information-theoretic storage cost in sentence comprehension [\[paper\]](https://arxiv.org/abs/2602.18217)
+- Kajikawa, K., & **Isono, S.** (2026). The dual nature of syntactic Node Count: Facilitating and inhibiting sentence comprehension
  [\[paper\]](https://osf.io/preprints/psyarxiv/9msby_v1)
-- **Isono, S.**, Kajikawa, K., Oseki, Y., Asahara, M. (2025). Modeling memory effects in a head-final language with category locality. _PsyArXiv_ [\[paper\]](https://osf.io/preprints/psyarxiv/aj6my)
+- **Isono, S.**, Kajikawa, K., Oseki, Y., & Asahara, M. (2025). Modeling memory effects in a head-final language with category locality. _PsyArXiv_ [\[paper\]](https://osf.io/preprints/psyarxiv/aj6my)
 
 # Publications
 ## Journal articles
