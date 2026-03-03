@@ -31,6 +31,7 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 **Best presentation award**
 
 ## Non peer-reviewed talks/posters/abstracts (selected)
+- **Isono, S.**, Kajikawa, K. (2026). 大規模言語モデルの衝撃を生き残る言語理論を考える \[Language theory in the aftermath of large language models\]. _NLP2026_, Utsunomiya, Japan. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-10.pdf) [\[poster\]](files/nlp2026_tlg_poster.pdf)
 - **Isono, S.\***, Kajikawa, K.\*, Sugimoto, Y\*, Asahara, M., & Oseki, Y. (2025). CCGによる日本語データのモデリング \[Modeling Japanese EEG data with CCG\]. _NLP2025_, Nagasaki, Japan. (*co-first) **Conference committee special award** [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)
 
 ## Theses
