@@ -5,7 +5,7 @@ title: Shinnosuke Isono
 
 <img src="face.png" style="float:right; margin=5px;" width="140px" height="165px">
 
-I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Japan. I study language comprehension in humans using a combination of theoretical, experimental, and computational approaches.
+I am Shinnosuke Isono (磯野真之介), an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Japan. I study language comprehension in humans using a combination of theoretical, experimental, and computational approaches.
 
 - Keywords: Language comprehension, working memory, syntax, categorial grammars
 - Email: s-isono at ninjal
@@ -35,7 +35,7 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 
 ## Non peer-reviewed talks/posters/abstracts (selected)
 - **Isono, S.**, Kajikawa, K. (2026). 大規模言語モデルの衝撃を生き残る言語理論を考える \[Language theory in the aftermath of large language models\]. _NLP2026_, Utsunomiya, Japan. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-10.pdf) [\[poster\]](files/nlp2026_tlg_poster.pdf)
-- **Isono, S.\***, Kajikawa, K.\*, Sugimoto, Y\*, Asahara, M., & Oseki, Y. (2025). CCGによる日本語データのモデリング \[Modeling Japanese EEG data with CCG\]. _NLP2025_, Nagasaki, Japan. (*co-first) **Conference committee special award** [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)
+- **Isono, S.\***, Kajikawa, K.\*, Sugimoto, Y\*, Asahara, M., & Oseki, Y. (2025). CCGによる日本語EEGデータのモデリング \[Modeling Japanese EEG data with CCG\]. _NLP2025_, Nagasaki, Japan. (*co-first) **Conference committee special award** [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)
 
 ## Theses
 - **Isono, S.** (2025). _Syntactic processing as dynamic logical inference under resource limitations._ PhD Thesis, University of Tokyo. **The First National High School Memorial Award**
@@ -46,7 +46,7 @@ I am an Assistant Professor at [NINJAL](https://www.ninjal.ac.jp/) in Tokyo, Jap
 - Grants-in-Aid for JSPS fellows (DC2) JP23KJ0538 ヒトの文理解における動詞・項関係の逐次的な構築のメカニズムの解明 \[Study on the incremental building of verb-argument relations in human sentence comprehension\] FY 2022--2024
 
 # Education
-- PhD, Univesity of Tokyo, 2025
+- PhD, University of Tokyo, 2025
 - MA, University of Tokyo, 2022
 - Bachelor of Law, University of Tokyo, 2015
 - Exchange student, University of Toronto, 2013-2014
