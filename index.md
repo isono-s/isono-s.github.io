@@ -24,7 +24,7 @@ I am Shinnosuke Isono (磯野真之介), an Assistant Professor at [NINJAL](http
 - **Isono, S.**, & Kajikawa, K. (2026). Syntactically-guided information maintenance in sentence comprehension. _CoNLL 2026_.
 - Kajikawa, K., **Isono, S.**, & Wilcox, E. G. (2026). Information-theoretic storage cost in sentence comprehension. _CoNLL 2026_. [\[paper\]](https://arxiv.org/abs/2602.18217)
 - Yoshida, R., **Isono, S.**, Someya, T., Oseki, Y., & Kuribayashi, T. (2026). An existence proof for neural language models that can explain garden-path effects via surprisal. _ACL 2026 Main_.
-- Yamamoto, Y.\*, **Isono, S.**\*, Kawahara, Y., & Yokoi, S. (2026). Timesteps of Mamba align with human reading times. _ACL 2026 Findings_. 
+- Yamamoto, Y.\*, **Isono, S.**\*, Kawahara, Y., & Yokoi, S. (\*co-first) (2026). Timesteps of Mamba align with human reading times. _ACL 2026 Findings_. 
 - Yoshida, R., **Isono, S.**, Kajikawa, K., Someya, T., Sugimoto, Y., & Oseki, Y. (2025). If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation? _ACL 2025 Main_. [\[paper\]](https://arxiv.org/abs/2502.11469)
 - **Isono, S.**, Hasegawa, T., Kajikawa, K., Kono, K., Nakamura, S., & Oseki, Y. (2023). Formalizing argument structures with Combinatory Categorial Grammar. _Logic and Engineering of Natural Language Semantics (LENLS) 2022. Lecture Notes in Computer Science, 14213_, 83–99. [\[paper\]](https://doi.org/10.1007/978-3-031-43977-3_6)
 - **Isono, S.** & Hirose, Y. (2022). Psycholinguistic evidence for severing arguments from the verb. _Japanese/Korean linguistics, 29_, 437-446. [\[paper\]](https://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH31.pdf)
@@ -37,7 +37,7 @@ I am Shinnosuke Isono (磯野真之介), an Assistant Professor at [NINJAL](http
 
 ## Non peer-reviewed talks/posters/abstracts (selected)
 - **Isono, S.**, Kajikawa, K. (2026). 大規模言語モデルの衝撃を生き残る言語理論を考える \[Language theory in the aftermath of large language models\]. _NLP2026_, Utsunomiya, Japan. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/TS2-10.pdf) [\[poster\]](files/nlp2026_tlg_poster.pdf)
-- **Isono, S.\***, Kajikawa, K.\*, Sugimoto, Y\*, Asahara, M., & Oseki, Y. (2025). CCGによる日本語EEGデータのモデリング \[Modeling Japanese EEG data with CCG\]. _NLP2025_, Nagasaki, Japan. (*co-first) **Conference committee special award** [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)
+- **Isono, S.\***, Kajikawa, K.\*, Sugimoto, Y\*, Asahara, M., & Oseki, Y. (*co-first) (2025). CCGによる日本語EEGデータのモデリング \[Modeling Japanese EEG data with CCG\]. _NLP2025_, Nagasaki, Japan. **Conference committee special award** [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/E10-2.pdf)
 
 ## Theses
 - **Isono, S.** (2025). _Syntactic processing as dynamic logical inference under resource limitations._ PhD Thesis, University of Tokyo. **The First National High School Memorial Award**
