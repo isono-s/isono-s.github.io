@@ -21,9 +21,9 @@ I am Shinnosuke Isono (磯野真之介), an Assistant Professor at [NINJAL](http
 - **Isono, S.** & Hirose, Y. (2023). Pre-verb reactivation of arguments in sentence processing. _Glossa Psycholinguistics, 2_(1). [\[paper\]](https://doi.org/10.5070/G6011180)
 
 ## Peer-reviewed conference proceedings
-- **Isono, S.**, & Kajikawa, K. (2026). Syntactically-guided information maintenance in sentence comprehension. _CoNLL 2026_.
+- **Isono, S.**, & Kajikawa, K. (2026). Syntactically-guided information maintenance in sentence comprehension. _CoNLL 2026_. [\[paper\]](https://arxiv.org/abs/2604.27468)
 - Kajikawa, K., **Isono, S.**, & Wilcox, E. G. (2026). Information-theoretic storage cost in sentence comprehension. _CoNLL 2026_. [\[paper\]](https://arxiv.org/abs/2602.18217)
-- Yoshida, R., **Isono, S.**, Someya, T., Oseki, Y., & Kuribayashi, T. (2026). An existence proof for neural language models that can explain garden-path effects via surprisal. _ACL 2026 Main_.
+- Yoshida, R., **Isono, S.**, Someya, T., Oseki, Y., & Kuribayashi, T. (2026). An existence proof for neural language models that can explain garden-path effects via surprisal. _ACL 2026 Main_. [\[paper\]](https://arxiv.org/abs/2604.18293)
 - Yamamoto, Y.\*, **Isono, S.**\*, Kawahara, Y., & Yokoi, S. (\*co-first) (2026). Timesteps of Mamba align with human reading times. _ACL 2026 Findings_. 
 - Yoshida, R., **Isono, S.**, Kajikawa, K., Someya, T., Sugimoto, Y., & Oseki, Y. (2025). If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation? _ACL 2025 Main_. [\[paper\]](https://arxiv.org/abs/2502.11469)
 - **Isono, S.**, Hasegawa, T., Kajikawa, K., Kono, K., Nakamura, S., & Oseki, Y. (2023). Formalizing argument structures with Combinatory Categorial Grammar. _Logic and Engineering of Natural Language Semantics (LENLS) 2022. Lecture Notes in Computer Science, 14213_, 83–99. [\[paper\]](https://doi.org/10.1007/978-3-031-43977-3_6)
