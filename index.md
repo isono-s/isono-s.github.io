@@ -13,10 +13,10 @@ I am Shinnosuke Isono (磯野真之介), an Assistant Professor at [NINJAL](http
 
 # Preprints
 - Kajikawa, K., & **Isono, S.** (2026). The dual nature of syntactic Node Count: Facilitating and inhibiting sentence comprehension. _PsyArXiv_. [\[paper\]](https://osf.io/preprints/psyarxiv/9msby_v1)
-- **Isono, S.**, Kajikawa, K., Oseki, Y., & Asahara, M. (2025). Modeling memory effects in a head-final language with category locality. _PsyArXiv_. [\[paper\]](https://osf.io/preprints/psyarxiv/aj6my)
 
 # Publications
 ## Journal articles
+- **Isono, S.**, Kajikawa, K., Oseki, Y., & Asahara, M. (2026). Modeling memory effects in a head-final language with category locality. _Open Mind, 10_: 1359–1393. [\[paper\]](https://doi.org/10.1162/OPMI.a.384)
 - **Isono, S.** (2024). Category Locality Theory: A unified account of locality effects in language comprehension. _Cognition 247_, 105766. [\[paper\]](https://doi.org/10.1016/j.cognition.2024.105766)
 - **Isono, S.** & Hirose, Y. (2023). Pre-verb reactivation of arguments in sentence processing. _Glossa Psycholinguistics, 2_(1). [\[paper\]](https://doi.org/10.5070/G6011180)
 
